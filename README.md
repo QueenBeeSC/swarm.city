@@ -11,7 +11,7 @@ Visit our website at (https://swarm.city)
 3. Future
 
 ```links to articles
-Syntax highlighted code block
+
 
 # Meet the Community
 ## FAQ
