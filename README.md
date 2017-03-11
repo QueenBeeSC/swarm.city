@@ -1,7 +1,8 @@
 ## Welcome to Swarm City
 
-Swarm City is the first truly decentra;ized peer to peer economy, enabled by the SWT token, running on the Ethereum blockchain
-Visit our at ![website] (https://swarm.city)
+Swarm City is the first truly decentralized peer to peer economy, enabled by the SWT token, running on the Ethereum blockchain
+
+To learn more Visit our at [website](https://swarm.city)
 
 
 
