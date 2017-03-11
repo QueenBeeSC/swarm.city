@@ -1,10 +1,11 @@
 ## Welcome to Swarm City
 
-Visit our website at (https://swarm.city)
+Swarm City is the first truly decentra;ized peer to peer economy, enabled by the SWT token, running on the Ethereum blockchain
+Visit our at ![website] (https://swarm.city)
 
 
 
-### What is Swarm City?
+## What is Swarm City?
 
 1. Past
 2. Present
@@ -13,6 +14,20 @@ Visit our website at (https://swarm.city)
 ```links to articles
 
 
-# Meet the Community
+## Meet the Community
+
+1. Slack
+2. Twitter
+3. Facebook
+4. Reddit
+
+
+## Swarm City DApp
+
+1. Original Tokensale  Whitepaper
+2. Project Roadmap
+3. The Terminal
+
 ## FAQ
+
 ### Need More Help? Email support@swarm.city
