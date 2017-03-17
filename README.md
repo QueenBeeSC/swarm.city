@@ -32,7 +32,7 @@ To learn more Visit our [website](https://swarm.city)
 
 
 ## FAQ
-> [General](https://faq.swarm.city/)
-> [
+[General](https://faq.swarm.city/)
+
 
 ### Need More Help? Email support@swarm.city
