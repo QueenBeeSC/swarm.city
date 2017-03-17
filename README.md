@@ -8,7 +8,7 @@ To learn more Visit our [website](https://swarm.city)
 
 ## What is Swarm City?
 
-[Past]()
+[Past](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)
 
 [Present](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)
 
@@ -27,8 +27,11 @@ To learn more Visit our [website](https://swarm.city)
 ## Swarm City DApp
 
 Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+
 Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+
 The [Terminal](https://swarm.city)
+
 [Github](https://github.com/swarmcity)
 
 
