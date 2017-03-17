@@ -24,10 +24,10 @@ To learn more Visit our [website](https://swarm.city)
 
 ## Swarm City DApp
 
-> Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
-> Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
-> The [Terminal](https://swarm.city)
-> [Github](https://github.com/swarmcity)
+* Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+* Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+* The [Terminal](https://swarm.city)
+* [Github](https://github.com/swarmcity)
 
 
 
