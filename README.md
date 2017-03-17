@@ -25,9 +25,9 @@ To learn more Visit our [website](https://swarm.city)
 
 ## Swarm City DApp
 
-1. Original Tokensale  Whitepaper
-2. Project Roadmap
-3. The Terminal
+1. Original Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+2. Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+3. The [Terminal](https://swarm.city)
 4. [Github](https://github.com/swarmcity)
 
 
