@@ -40,4 +40,6 @@ The [Terminal](https://swarm.city)
 [General](https://faq.swarm.city/)
 
 
-### Need More Help? Email support@swarm.city
+### Need More Help? 
+
+>Email support@swarm.city
