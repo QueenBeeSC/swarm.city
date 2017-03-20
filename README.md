@@ -1,7 +1,7 @@
 ## Welcome to Swarm City
 
 
-Swarm City is the first truly decentralized peer to peer economy, enabled by the SWT token, running on the Ethereum blockchain
+We are on the leading edge of a new technologigcal era, an era that is disrupting the economics of human interactions. Here in Swarm City, we are developing a truly Dectralized App (DApp), enabled by the SWT token, running on the Ethereum blockchain to  interconnect world industries and enabling open peer to peer exchanges.
 
 To learn more Visit our [website](https://swarm.city) 
 
@@ -15,6 +15,17 @@ To learn more Visit our [website](https://swarm.city)
 [Future](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)
 
 
+## Swarm City DApp
+
+[Github](https://github.com/swarmcity)
+
+Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+
+Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+
+The [Terminal](https://swarm.city)
+
+
 ## Meet the Community
 
 [Slack](https://swarm-slack-invite.herokuapp.com/)
@@ -24,18 +35,8 @@ To learn more Visit our [website](https://swarm.city)
 [Reddit](https://www.reddit.com/r/SwarmCity/)
 
 
-## Swarm City DApp
-
-Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
-
-Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
-
-The [Terminal](https://swarm.city)
-
-[Github](https://github.com/swarmcity)
-
-
 ## FAQ
+
 [General](https://faq.swarm.city/)
 
 
