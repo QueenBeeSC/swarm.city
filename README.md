@@ -29,19 +29,15 @@ The [Terminal](https://swarm.city)
 ## Meet the Community
 
 >[Slack](https://swarm-slack-invite.herokuapp.com/)
-
->[Twitter](https://twitter.com/SwarmCityHive)
-
->[Facebook](https://www.facebook.com/groups/SwarmCity/)
-
->[Medium](https://press.swarm.city/)
-
->[Reddit](https://www.reddit.com/r/SwarmCity/)
+[Twitter](https://twitter.com/SwarmCityHive)
+[Facebook](https://www.facebook.com/groups/SwarmCity/)
+[Medium](https://press.swarm.city/)
+[Reddit](https://www.reddit.com/r/SwarmCity/)
 
 
 ## FAQ
 
->[General](https://faq.swarm.city/)
+[General](https://faq.swarm.city/)
 
 
 ### Need More Help? 
