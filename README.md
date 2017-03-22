@@ -19,7 +19,7 @@ To learn more visit our [website](https://swarm.city)
 
 [Github](https://github.com/swarmcity)
 
-[Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md)Github
+[Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) Github
 
 Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 
