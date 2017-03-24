@@ -17,7 +17,7 @@ To learn more visit our [website](https://swarm.city)
 
 ## Swarm City DApp
 
-[Github](https://github.com/swarmcity) - CHeck the code
+[Github](https://github.com/swarmcity) - Check the code
 
 Swarm City [Terminal](https://swarm.city) - Create an account
 
