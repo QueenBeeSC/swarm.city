@@ -43,3 +43,6 @@ Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) -
 ### Need More Help? 
 
 >Email support@swarm.city
+
+
+## [Join our mailing list](http://eepurl.com/cH1485)
