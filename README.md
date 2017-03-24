@@ -17,13 +17,13 @@ To learn more visit our [website](https://swarm.city)
 
 ## Swarm City DApp
 
-[Github](https://github.com/swarmcity)
+[Github](https://github.com/swarmcity) - CHeck the code
 
-Swarm City [Terminal](https://swarm.city)
+Swarm City [Terminal](https://swarm.city) - Create an account
 
-Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - About the SWT token
 
-Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
+Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - The plan
 
 
 ## Meet the Community
