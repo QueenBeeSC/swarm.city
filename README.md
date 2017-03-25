@@ -8,7 +8,7 @@
 
 ## Visit the Terminal [Enter here](https://swarm.city) 
 
-To learn more visit our knowledge base articles: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and [Boardwalk](https://queenbeesc.github.io/swarm.city-Boardwalk/)
+To learn more visit our knowledge base articles: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and [Boardwalk](https://github.com/QueenBeeSC/swarm.city-Boardwalk)
 
 Join our [mailing list](http://eepurl.com/cH1485)
 
