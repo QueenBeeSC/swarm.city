@@ -30,7 +30,7 @@ Join our [mailing list](http://eepurl.com/cH1485)
 
 * Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - About the SWT token
 
-* Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - The plan
+* Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - The plan
 
 
 ## Meet the Community
