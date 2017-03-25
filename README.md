@@ -24,10 +24,10 @@ Join our [mailing list](http://eepurl.com/cH1485)
 
 ## Swarm City DApp
 
-* [Github](https://github.com/swarmcity) - Check the code
-* Swarm City [Terminal](https://swarm.city) - Create an account, exchange ARC for SWT, send & receive SWT tokens
-* Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - About SWT tokens
-* Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - The plan
+* [Github](https://github.com/swarmcity) - check the code
+* Swarm City [Terminal](https://swarm.city) - create an account, exchange ARC for SWT, send & receive SWT tokens
+* Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - about SWT tokens
+* Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - the ultimate plan
 
 
 ## Meet the Community
