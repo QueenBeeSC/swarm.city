@@ -46,9 +46,10 @@ Project [Roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) -
 
 [General](https://faq.swarm.city/)
 
+[Swarm City Support](https://swarmcitysupport.github.io/FAQ/)
 
-### Need More Help? 
 
+### Need More Help?
 >Email support@swarm.city
 
 
