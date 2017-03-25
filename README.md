@@ -15,11 +15,11 @@ Join our [mailing list](http://eepurl.com/cH1485)
 
 ## What is Swarm City?
 
-[Past](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)
+- [Past](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)
 
-[Present](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)
+- [Present](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)
 
-[Future](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)
+- [Future](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)
 
 
 ## Swarm City DApp
