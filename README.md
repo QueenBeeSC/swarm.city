@@ -1,7 +1,10 @@
 ## Welcome to Swarm City
 
 
-> We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions. Swarm City is developing a truly Decentralized App (DApp), enabled by the SWT token, running on the Ethereum blockchain to  interconnect world industries and enable open peer to peer exchanges.
+> We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions. Swarm City is developing a truly Decentralized App (DApp), enabled by the SWT token, running on the Ethereum blockchain to interconnect world industries and enable open peer to peer exchanges.
+
+It is our mission to provide an open marketplace of services, currency tokens and encrypted communication tools to offer unfettered access between buyers and sellers worldwide and in your community.
+
 
 [Enter here](https://swarm.city) to get started
 
