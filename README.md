@@ -23,7 +23,7 @@ Join our [mailing list](http://eepurl.com/cH1485)
 
 [Github](https://github.com/swarmcity) - Check the code
 
-Swarm City [Terminal](https://swarm.city) - Create an account
+Swarm City [Terminal](https://swarm.city) - Create an account, exchange ARC for SWT, send & receive SWT tokens
 
 Tokensale [Whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - About the SWT token
 
