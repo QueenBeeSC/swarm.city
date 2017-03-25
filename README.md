@@ -6,7 +6,7 @@
 > It is our mission to provide an open marketplace of services, currency tokens and encrypted communication tools to offer unfettered access between buyers and sellers worldwide and in your community.
 
 
-# To visit the Terminal [Enter here](https://swarm.city) 
+# Visit the Terminal [Enter here](https://swarm.city) 
 
 To learn more visit our knowledge base articles: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and [Boardwalk](https://queenbeesc.github.io/swarm.city-Boardwalk/)
 
