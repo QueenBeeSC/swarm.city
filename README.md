@@ -5,7 +5,7 @@
 
 > It is our mission to provide an open marketplace of services, currency tokens and encrypted communication tools to offer unfettered access between buyers and sellers worldwide and in your community.
 
-[ ](https://cloud.githubusercontent.com/assets/17633374/24324365/97c8c0de-115b-11e7-943a-0d946ee2e06b.png)
+[logo](https://cloud.githubusercontent.com/assets/17633374/24324365/97c8c0de-115b-11e7-943a-0d946ee2e06b.png)
 
 ## Visit the Terminal [Enter here](https://swarm.city) 
 
