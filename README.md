@@ -11,9 +11,10 @@
 
 > SwarmCity is developing a dapp that will allow any p2p service. Anybody will be able to run and use any service on that platform. The first service that is in development is a needaride service (known as uberlike). The next service maintained by the core team will be a swarmbnb (known as airbnbnlike).  
 
-- ####Past
-    * Formerly we were ArcadeCity but we [split apart](https://press.swarm.city/forking-a-brand-cde5de87d46a). We are unmistakably SwarmCity [Learn more](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
-    * Then became more real [Learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)
+- #### Past
+    * Formerly we were ArcadeCity but we [split apart](https://press.swarm.city/forking-a-brand-cde5de87d46a). 
+    * Then became more real [learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)
+    * We are unmistakably SwarmCity [learn more](https://press.swarm.city/unmistakably-swarm-city-9522606f88)
 
 - #### Present
     * Growing & lovely community around the world
@@ -32,12 +33,12 @@
 * Our code is hosted on [Github](https://github.com/swarmcity)
 * Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - about SWT tokens
 * Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - the ultimate plan
-* Interested in Coding? [Learn more](https://dappsforbeginners.wordpress.com/)
+* Interested in Coding? [learn more](https://dappsforbeginners.wordpress.com/)
 
 ## The App  
 
-* Our app is not just an app. It is a DApp. If you want to know more: dapps[] 
-* https://swarm.city
+* Our app is not just an app. It is a DApp. If you want to know more: [dapps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp) 
+* See it live on https://swarm.city
 * To learn more visit our knowledge base articles: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and [Boardwalk](https://queenbeesc.github.io/swarm.city-Boardwalk/)
 
 ## Meet the Community
@@ -62,14 +63,19 @@
     * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
 
 * ##### How do I convert ARC to SWT token?
-    * Visit the main FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
+    * Visit the SwarmCity Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
 
 * ##### Are there more FAQ's for swarm.city?
 
-    * Sure! Visit [SwarmCity Support](https://swarmcitysupport.github.io/FAQ/)
+    * Sure! Visit [SwarmCity Support FAQ](https://swarmcitysupport.github.io/FAQ/)
+    * Some minor on the [homepage](https://faq.swarm.city/) 
 
-* ##### When will the swarm.city dapp be release?
+* ##### When will the swarm.city dapp be released?
     * It is already. We are close to a MVP status. Which means it will be  usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
+
+* ##### Who is behind SwarmCity?
+    * Team [Leaders](https://getactivein.swarm.city/)
+    * [Advisors](https://advisors.swarm.city/)
 
 ### Need More Help?
 > If you have technical issues we kindly ask you to be as precise as you can and deliver vital information: What is your environment, what do you want to achieve, what did you do, what do you expect, what do you get.  
