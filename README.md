@@ -79,7 +79,7 @@
 
 ### Need More Help?
 > If you have technical issues we kindly ask you to be as precise as you can and deliver vital information: What is your environment, what do you want to achieve, what did you do, what do you expect, what do you get.  
-* Per [Email us](support@swarm.city?subject=I need support:)
+* Per [Email us](support@swarm.city)
 * On [Slack](https://swarmcity.slack.com/messages/support/) 
 
 
