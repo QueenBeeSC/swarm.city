@@ -18,13 +18,15 @@ Swarm City is developing a dapp that will allow any p2p service. Anybody will be
     * We are unmistakably Swarm [learn more](https://press.swarm.city/unmistakably-swarm-city-9522606f88)  
 
 #### Present
+
     * Growing community networks around the world  
     * Fast pace developers  
     * MVP close to release  
-    * Read about development status: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh) 
+    * Read about development status: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)    
     * Test the dapp: Swarm City [Terminal](https://swarm.city) - create an account, exchange ARC for SWT, send & receive SWT tokens  
 
 #### Future
+
     * [Boardwalk](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)  
     * Even bigger community    
     * More services  
