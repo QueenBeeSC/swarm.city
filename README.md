@@ -67,9 +67,8 @@ It is our mission to provide an open marketplace of services, currency tokens an
     * Visit the SwarmCity Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
 
 * ##### Are there more FAQ's about SwarmCity?
-
     * Sure! Visit [SwarmCitySupport FAQ](https://swarmcitysupport.github.io/FAQ/)
-    * Basic info [homepage](https://faq.swarm.city/) 
+    * Basic info [homepage](https://faq.swarm.city/) 
 
 * ##### When will the SwarmCity dapp be released?
     * It is already under [ https://swarm.city ]. We are close to a MVP status. Which means it will be  usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
