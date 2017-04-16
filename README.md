@@ -12,7 +12,7 @@ SwarmCity is developing a dapp that will allow any p2p service. Anybody will be 
 
 #### Present
 
-* Growing community networks around the world  
+* Growing community networks globally 
 * Fast pace developers  
 * MVP close to release  
 * Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
