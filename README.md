@@ -60,23 +60,23 @@ It is our mission to provide an open marketplace of services, currency tokens an
     * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
     * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
     * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
-    * [Changelly](https://changelly.com)
+  * [Changelly](https://changelly.com)
 
 * ##### How do I buy SWT? 
     * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
 
 * ##### How do I convert ARC to SWT?
-    * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
+  * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
 
 * ##### Are there more FAQ about Swarm City?
-    * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
+  * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
     
 * ##### When will the Swarm City DApp be released?
-    * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
+  * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
 
 * ##### Who is behind Swarm City?
-    * [Team](https://getactivein.swarm.city/)
-    * [Advisors](https://advisors.swarm.city/)
+  * [Team](https://getactivein.swarm.city/)  
+  * [Advisors](https://advisors.swarm.city/)
 
 ### Need More Help?
 
