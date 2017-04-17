@@ -2,7 +2,7 @@
 
 ## What is Swarm City?
 
-Swarm City is developing a DApp that will allow any P2P service exchange. Anybody will be able to run and use any service on the platform. The first service in development is a #needaride service (known as ridesharing). The next service maintained by the core team will be #SwarmBnb (or property sharing).  
+Swarm City is developing a decentralized app (DApp) that will allow any peer-to-peer (P2P) service exchange. Anybody will be able to exchange Swarm City Tokens (SWT) and use any service on the platform. The first service in development is a #needaride service (aka ridesharing). The next service maintained by the core team will be #SwarmBnb (aka airbnb).  
 
 #### Past
 
@@ -16,7 +16,7 @@ Swarm City is developing a DApp that will allow any P2P service exchange. Anybod
 * MVP close to release and frequent sprint releases featuring current progress
 * Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
 * Visit the Swarm City [Terminal](https://swarm.city) 
-    - create an account, exchange ARC for SWT, send & receive SWT (Swarm City Token)   
+    - create an account, exchange ARC for SWT, send & receive SWT
 
 #### Future
 
