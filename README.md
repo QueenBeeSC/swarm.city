@@ -8,7 +8,7 @@ Swarm City is developing a decentralized app (DApp) that will allow any peer-to-
 #### Past
 
 * Formerly known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
-* We became more decentralized [learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
+* We became more decentralized. [Learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
 
 #### Present
 
