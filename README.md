@@ -1,23 +1,22 @@
 ![logo](https://cloud.githubusercontent.com/assets/17633374/24324365/97c8c0de-115b-11e7-943a-0d946ee2e06b.png)
 
-## What is SwarmCity?
+## What is Swarm City?
 
-SwarmCity is developing a dapp that will allow any p2p service. Anybody will be able to run and use any service on that platform. The first service that is in development is a needaride service (known as uberlike). The next service maintained by the core team will be a swarmbnb (known as airbnbnlike).  
+Swarm City is developing a DApp that will allow any P2P service exchange. Anybody will be able to run and use any service on the platform. The first service in development is a #needaride service (known as ridesharing). The next service maintained by the core team will be #SwarmBnb (or property sharing).  
 
 #### Past
 
-* Formerly we were ArcadeCity but we [split apart](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
-* Then became more decentralized [learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
-* We are unmistakably SwarmCity [learn more](https://press.swarm.city/unmistakably-swarm-city-9522606f88)  
+* Formerly known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
+* We became more decentralized [learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
 
 #### Present
 
-* Growing community networks globally 
-* Fast pace developers  
-* MVP close to release  
+* Growing [global community](https://queenbeesc.github.io/NeedARide/) networks 
+* Fast pace developers
+* MVP close to release and frequent sprint releases featuring current progress
 * Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
-* Try it out: SwarmCity [Terminal](https://swarm.city) 
-    - create an account, exchange ARC for SWT, send & receive SWT (SwarmCity Token)   
+* Visit the Swarm City [Terminal](https://swarm.city) 
+    - create an account, exchange ARC for SWT, send & receive SWT (Swarm City Token)   
 
 #### Future
 
@@ -26,22 +25,22 @@ SwarmCity is developing a dapp that will allow any p2p service. Anybody will be 
 * More services  
 
 #### Mission
-We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions. SwarmCity is developing a truly Decentralized App (dapp), enabled by the SWT (SwarmCity Token), running on the Ethereum blockchain to interconnect world industries and enable open peer to peer exchanges.
+We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions. Swarm City is developing a truly Decentralized App (DApp), enabled by the SWT, running on the Ethereum blockchain to interconnect world industries and enable open peer to peer exchanges.
 
 It is our mission to provide an open marketplace of services, currency tokens and encrypted communication tools to offer unfettered access between buyers and sellers worldwide and in your community.
 
 ## More detailed stuff
 
 * Our code is hosted on [Github](https://github.com/swarmcity)
-* Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - about SWT (SwarmCity Token)
+* Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 * Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - the ultimate plan
 * Interested in Coding? [learn more](https://dappsforbeginners.wordpress.com/)
 
-## The App  
+## The App  
 
-* Our app is not just an app. It is a DApp. If you want to know more: [dapps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp) 
+* Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp) 
 * See it live on https://swarm.city
-* To learn more visit our knowledge base articles: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and [Boardwalk](https://queenbeesc.github.io/swarm.city-Boardwalk/)
+* First release: [Terminal](https://queenbeesc.github.io/swarm.city-Terminal/) and Next release [Boardwalk](https://queenbeesc.github.io/swarm.city-Boardwalk/)
 
 ## Meet the Community
 
@@ -51,31 +50,32 @@ It is our mission to provide an open marketplace of services, currency tokens an
 * [Twitter](https://twitter.com/SwarmCity)
 * [Facebook](https://www.facebook.com/groups/SwarmCity/)
 * [Medium](https://press.swarm.city/about)
-* Join our [mailing list](http://eepurl.com/cH1485)
+* Subscribe to our [mailing list](http://eepurl.com/cH1485)
 
 ## Short FAQ
 
-* ##### On which exchanges is SWT (SwarmCity Token) listed? 
+* ##### Is SWT listed on any crypto exchanges? 
     * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
     * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
     * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
- 
-* ##### How do I buy SWT (SwarmCity Token)? 
+    * [Changelly](https://changelly.com)
+
+* ##### How do I buy SWT? 
     * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
 
-* ##### How do I convert ARC to SWT (SwarmCity Token)?
-    * Visit the SwarmCity Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
+* ##### How do I convert ARC to SWT?
+    * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
 
-* ##### Are there more FAQ's about SwarmCity?
-    * Sure! Visit [SwarmCitySupport FAQ](https://swarmcitysupport.github.io/FAQ/)
-    * Basic info [homepage](https://faq.swarm.city/) 
+* ##### Are there more FAQ about Swarm City?
+    * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
+    
+* ##### When will the Swarm City DApp be released?
+    * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
 
-* ##### When will the SwarmCity dapp be released?
-    * It is already under [ https://swarm.city ]. We are close to a MVP status. Which means it will be  usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
-
-* ##### Who is behind SwarmCity?
-    * Team [Leaders](https://getactivein.swarm.city/)
-    * [Advisors](https://advisors.swarm.city/)
+* ##### Who is behind Swarm City?
+    * [Team](https://getactivein.swarm.city/)
+    
+    * [Advisors](https://advisors.swarm.city/)
 
 ### Need More Help?
 
