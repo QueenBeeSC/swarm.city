@@ -17,8 +17,7 @@ Swarm City is developing a decentralized app (DApp) that will allow any peer-to-
 * MVP release coming soon
 * Beta testing on every sprint release
 * Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
-* Visit the Swarm City [Terminal](https://swarm.city)
-    - create an account, exchange ARC for SWT, send & receive SWT
+* Visit the Swarm City [Terminal](https://swarm.city) - create an account, exchange ARC for SWT, send & receive SWT
 
 #### Future
 
