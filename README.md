@@ -1,4 +1,5 @@
-![logo](https://cloud.githubusercontent.com/assets/17633374/24324365/97c8c0de-115b-11e7-943a-0d946ee2e06b.png)
+![logo](https://cloud.githubusercontent.com/assets/17633374/25299052/33dc2a9c-26c9-11e7-95a4-e0356d2a680c.jpg)
+
 
 ## What is Swarm City?
 
