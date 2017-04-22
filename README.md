@@ -3,40 +3,46 @@
 
 ## What is Swarm City?
 
-Swarm City is developing a decentralized app (DApp) that will allow any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Anybody will be able to exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, obtaining any service available on the platform in their area. The first service to be developed is a #needaride service, aka ridesharing. The next service will most likely be #SwarmBnb, aka airbnb, and many other hashtags will follow. 
+Swarm City is developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Users can interact on a private and secure messaging channel, exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform. The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow. Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
 
 
-#### Past
-
+<details><summary>Past</summary>
 * Originally known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
 * We became more decentralized. [Learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
+</details>
 
-#### Present
 
+<details><summary>Present</summary>
 * Growing [global community](https://queenbeesc.github.io/NeedARide/) networks 
 * Fast pace developers
 * MVP release coming soon
 * Beta testing on every sprint release
 * Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
 * Visit the Swarm City [Terminal](https://swarm.city) - create an account, exchange ARC for SWT, send & receive SWT
+</details>
 
-#### Future
 
+<details><summary>Future</summary>
 * [Boardwalk](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)  
 * Even bigger community  
 * More services  
+</details>
 
-#### Mission
-We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions. Swarm City is developing a truly Decentralized App (DApp), enabled by the SWT, running on the Ethereum blockchain to interconnect world industries and enable open peer to peer exchanges.
 
-It is our mission to provide an open marketplace of services, currency tokens and encrypted communication tools to offer unfettered access between buyers and sellers worldwide and in your community.
+## Mission
 
-## More detailed stuff
+We are on the leading edge of a new technological era, an era that is disrupting the economics of human interactions inregards to trade of services. Swarm City is developing a truly Decentralized App (DApp), enabled by the SWT, running on the Ethereum blockchain to interconnect world industries and enable open peer to peer exchanges.
 
+It is our mission to provide an open marketplace of services, currency tokens, and encrypted communication tools to offer direct access between buyers and sellers worldwide and in your community.
+
+
+<details><summary>More detailed stuff</summary>
 * Our code is hosted on [Github](https://github.com/swarmcity)
 * Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 * Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - the ultimate plan
 * Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
+</details>
+
 
 ## The App  
 
@@ -60,7 +66,7 @@ It is our mission to provide an open marketplace of services, currency tokens an
     * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
     * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
     * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
-  * [Changelly](https://changelly.com)
+    * [Changelly](https://changelly.com)
 
 * ##### How do I buy SWT? 
     * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
