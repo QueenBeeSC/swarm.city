@@ -6,17 +6,16 @@
 Swarm City is developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Users can interact on a private and secure messaging channel, exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform. The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow. Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
 
 
-<details><summary>Past</summary>
+## Past
 
 * The project emerged from a grassroots effort to create an alternative for rideshare drivers who were stuck in the middele of regulators and greedy corporate middlemen. We had tokensale to fund our project
 * [Arcade City whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
 * Swarm City was formed as a result of a [brandfork](https://press.swarm.city/forking-a-brand-cde5de87d46a), the Ethereum development team and the project cofounders separated from the original project, known as Arcade City
 * [Getting organized](https://medium.com/arcade-city-press/getting-organized-62b91a7a0541)
 * [New Year, New Name, Same Teams](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
-</details>
 
 
-<details><summary>Present</summary>
+## Present
 
 * Decentralized App built on the Ethereum blockchain, check the [code](https://github.com/swarmcity)
 * The First Release [Terminal](https://swarm.city) - create a digital wallet, convert ARC to SWT, send & receive SWT
@@ -24,15 +23,13 @@ Swarm City is developing a decentralized app (DApp) that allows any peer-to-peer
 * [Beta testing](https://github.com/SwarmCitySupport/Beta-testing) on every sprint release
 * Official press releases [Swarm City Times](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)
 * [Buy SWT on Changelly](https://press.swarm.city/changelly-adds-swarm-city-token-allowing-credit-card-payments-for-swt-9e503789df63)
-</details>
 
 
-<details><summary>Future</summary>
+## Future
 
 * Second Release [Boardwalk](https://github.com/swarmcity/sc-boardwalk) coming soon
 * Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - even bigger community  
 * Storefront - more services will become available 
-</details>
 
 
 ## Mission
@@ -49,7 +46,7 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * [Beta testing](https://github.com/SwarmCitySupport/Beta-testing)
 
 
-<details><summary>Meet the Community</summary>
+Meet the Community
 
 * [Slack](https://slackinvite.swarm.city/) (recommended)
 * [Facebook](https://www.facebook.com/SwarmCityDApp/)
@@ -59,16 +56,15 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * [Twitter](https://twitter.com/SwarmCityDApp)
 * [Medium](https://press.swarm.city/about)
 * Subscribe to our [mailing list](http://eepurl.com/cH1485)
-</details>
 
 
-<details><summary>Blockchain Basics</summary>
+
+Blockchain Basics
 
 * Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
 * Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
 * Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
 * Watch Ethereum transactions on [Etherscan](https://etherscan.io)
-</details>
 
 
 ### Need More Help?
