@@ -58,17 +58,8 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * Subscribe to our [mailing list](http://eepurl.com/cH1485)
 </details>
 
-<details><summary>Blockchain Basics</summary>
-
-* Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
-* Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
-* Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
-* Watch Ethereum transactions on [Etherscan](https://etherscan.io)
-</details>
-
 
 <details><summary>FAQ about SWT</summary>
- 
 
 * ##### Who is behind Swarm City Token (SWT)?
   * [Team](https://getactivein.swarm.city/)  
@@ -105,6 +96,15 @@ It is our mission to provide an open marketplace of services, currency tokens, a
   
 * ##### Are there more FAQ about Swarm City?
   * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
+
+
+<details><summary>Blockchain Basics</summary>
+
+* Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
+* Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
+* Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
+* Watch Ethereum transactions on [Etherscan](https://etherscan.io)
+</details>
 
 
 ### Need More Help?
