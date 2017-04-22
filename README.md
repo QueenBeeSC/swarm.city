@@ -1,4 +1,5 @@
-![logo](https://cloud.githubusercontent.com/assets/17633374/24324365/97c8c0de-115b-11e7-943a-0d946ee2e06b.png)
+![logo](https://cloud.githubusercontent.com/assets/17633374/25299052/33dc2a9c-26c9-11e7-95a4-e0356d2a680c.jpg)
+
 
 ## What is Swarm City?
 
@@ -7,7 +8,7 @@ Swarm City is developing a decentralized app (DApp) that will allow any peer-to-
 
 #### Past
 
-* Formerly known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
+* Originally known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
 * We became more decentralized. [Learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
 
 #### Present
