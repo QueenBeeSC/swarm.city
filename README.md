@@ -46,7 +46,7 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * [Beta testing](https://github.com/SwarmCitySupport/Beta-testing)
 
 
-Meet the Community
+## Meet the Community
 
 * [Slack](https://slackinvite.swarm.city/) (recommended)
 * [Facebook](https://www.facebook.com/SwarmCityDApp/)
@@ -59,7 +59,7 @@ Meet the Community
 
 
 
-Blockchain Basics
+## Blockchain Basics
 
 * Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
 * Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
