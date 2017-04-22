@@ -7,22 +7,25 @@ Swarm City is developing a decentralized app (DApp) that allows any peer-to-peer
 
 
 <details><summary>Past</summary>
+
 * Originally known as Arcade City. We have [evolved](https://press.swarm.city/forking-a-brand-cde5de87d46a)  
 * We became more decentralized. [Learn more](https://press.swarm.city/happy-new-year-a52f80043cc7#.uco0arcyo)  
 </details>
 
 
 <details><summary>Present</summary>
+
 * Growing [global community](https://queenbeesc.github.io/NeedARide/) networks 
-* Fast pace developers
-* MVP release coming soon
-* Beta testing on every sprint release
-* Follow project developments: [Terminal](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
+* Fast pace Ethereum developers
+* Boardwalk release coming soon
+* [Beta testing](https://github.com/SwarmCitySupport/Beta-testing) on every sprint release
+* Official press releases [Swarm City Times](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)   
 * Visit the Swarm City [Terminal](https://swarm.city) - create an account, exchange ARC for SWT, send & receive SWT
 </details>
 
 
 <details><summary>Future</summary>
+
 * [Boardwalk](https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f#.8pruqahmj)  
 * Even bigger community  
 * More services  
@@ -37,6 +40,7 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 
 
 <details><summary>More detailed stuff</summary>
+
 * Our code is hosted on [Github](https://github.com/swarmcity)
 * Token exchange [whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
 * Project [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88) - the ultimate plan
