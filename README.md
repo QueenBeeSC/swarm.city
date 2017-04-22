@@ -44,9 +44,9 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 
 ## Knowledge Base Articles  
 
-[The Terminal](https://github.com/QueenBeeSC/swarm.city-Terminal)
-[FAQ](https://github.com/SwarmCitySupport/FAQ)
-[Beta testing](https://github.com/SwarmCitySupport/Beta-testing)
+* [The Terminal](https://github.com/QueenBeeSC/swarm.city-Terminal)
+* [FAQ](https://github.com/SwarmCitySupport/FAQ)
+* [Beta testing](https://github.com/SwarmCitySupport/Beta-testing)
 
 
 <details><summary>Meet the Community</summary>
