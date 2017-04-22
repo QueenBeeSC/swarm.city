@@ -62,45 +62,6 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 </details>
 
 
-<details><summary>FAQ about SWT</summary>
-
-* ##### Who is behind Swarm City Token (SWT)?
-  * [Team](https://getactivein.swarm.city/)  
-  * [Advisors](https://advisors.swarm.city/)
-  
-* ##### Where are the funds from the tokensale?
-    * [Etherscan](https://etherscan.io/address/0x50126e8fcb9be29f83c6bbd913cc85b40eaf86fc)
-  
-* ##### Is SWT listed on any crypto exchanges? 
-    * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-SWT)
-    * [Etherdelta](https://etherdelta.github.io/#SWT-ETH)
-    * [Cryptoderivates](https://cryptoderivatives.market/token/SWT)
-    * [Changelly](https://changelly.com)
-    * [Coincap](http://coinmarketcap.com/assets/swarm-city/#charts)
-
-* ##### How can I tell what my SWT tokens are worth?
-    * [Cryptocompare](https://www.cryptocompare.com/coins/swt/overview/BTC)
-    * [Dragonfrugal](https://dragonfrugal.com/coin-prices/index.php)
-    
-* ##### Is there a tutorial on how to buy SWT? 
-    * Bittrex tutorial on [Youtube](https://www.youtube.com/watch?v=CJIOeYI-e7o)
-
-* ##### How do I convert ARC to SWT?
-    * Visit the Swarm City Support FAQ - [ARC2SWT](https://swarmcitysupport.github.io/FAQ/#arc-to-swt-token-exchange)
-
-* #####  Where can I view the SWT token contract?
-    * SWT ERC-20 token contract on [Etherscan](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607)
-
-* ##### How can I see SWT transactions?
-    * [Ethplorer](https://ethplorer.io/address/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607#pageSize=100)
-    
-* ##### When will the Swarm City DApp be released?
-  * It is already available [ https://swarm.city ]. We are close to a MVP status. Which means it will be usable with the minimum set of functions that are needed. After that we improve and enhance the product so that it gets really smooth, neat and easy to use. 
-  
-* ##### Are there more FAQ about Swarm City?
-  * Sure! Visit [Swarm City Support FAQ](https://swarmcitysupport.github.io/FAQ/)
-
-
 <details><summary>Blockchain Basics</summary>
 
 * Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
