@@ -46,7 +46,7 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 
 [The Terminal](https://github.com/QueenBeeSC/swarm.city-Terminal)
 
-<detail><summary>Meet the Community</summary>
+<details><summary>Meet the Community</summary>
 
 * [Slack](https://slackinvite.swarm.city/) (recommended)
 * [Facebook](https://www.facebook.com/SwarmCityDApp/)
