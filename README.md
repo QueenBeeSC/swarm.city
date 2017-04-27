@@ -65,6 +65,8 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
 * Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
 * Watch Ethereum transactions on [Etherscan](https://etherscan.io)
+* Swap fiat for altcoins on [Changelly](https://changelly.com)
+* Swap altcoins on [ShapeShift}(https://shapeshift.io) or [Bity](https://bity.com)
 
 
 ### Need More Help?
