@@ -3,7 +3,9 @@
 
 ## What is Swarm City?
 
-Swarm City is a community developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Users can interact on a private and secure messaging channel, exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform. The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow. Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
+Swarm City is a community developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Users can interact on a private and secure messaging channel, exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform. 
+
+The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow. Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
 
 
 ## Past
