@@ -3,10 +3,11 @@
 
 ## What is Swarm City?
 
-Swarm City is a community developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. Users can interact on a private and secure messaging channel, exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform. 
+Swarm City is a community developing a decentralized app (DApp) that allows any peer-to-peer (P2P) service exchange, meaning no middleman, no central servers, and no unnecessary restrictions. 
 
-The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow. Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
+The first service to be developed is a #needaride service, aka ridesharing, available in the Boardwalk release. The next service will most likely be [#SwarmBnb](https://https://swarmbnb.com), aka airbnb, and many other hashtags will follow.
 
+We make the sharing-economy become true!
 
 ## Past
 
@@ -25,6 +26,7 @@ The first service to be developed is a #needaride service, aka ridesharing, avai
 * [Beta testing](https://github.com/SwarmCitySupport/Beta-testing) on every sprint release
 * Official press releases [Swarm City Times](https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f#.87579vodh)
 * [Buy SWT on Changelly](https://press.swarm.city/changelly-adds-swarm-city-token-allowing-credit-card-payments-for-swt-9e503789df63)
+* [Buy SWT on Bittrex](https://www.youtube.com/watch?v=CJIOeYI-e7o)
 
 
 ## Future
@@ -40,6 +42,15 @@ We are on the leading edge of a new technological era, an era that is disrupting
 
 It is our mission to provide an open marketplace of services, currency tokens, and encrypted communication tools to offer direct access between buyers and sellers worldwide and in your community.
 
+## How it works
+
+Users can interact on a private and secure messaging channel (similar to twitter but with sophisticated features), exchange Swarm City Tokens (SWT), a cryptocurrency minted to exchange between users, and browse other Ethereum apps offered on the platform.
+
+Once a service offered in a so called hashtag gets a critical mass, there will be a full-featured and dedicated frontend developed for it, so that the best user experience can be offered.  
+
+Swarm City also has a built in reputation system which lets you know who you can trust. Every user and app builds reputation over time as they transact with others on the platform.
+
+If you want to have a deeper look -read the [roadmap](https://press.swarm.city/unmistakably-swarm-city-9522606f88).
 
 ## Knowledge Base Articles  
 
@@ -50,7 +61,7 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 
 ## Meet the Community
 
-* [Slack](https://slackinvite.swarm.city/) (recommended)
+* [Slack](http://slackinvite.swarm.city/) (recommended)
 * [Facebook](https://www.facebook.com/SwarmCityDApp/)
 * [Global Facebook Community](https://queenbeesc.github.io/NeedARide/) 
 * [Reddit](https://www.reddit.com/r/SwarmCity/)
@@ -60,19 +71,24 @@ It is our mission to provide an open marketplace of services, currency tokens, a
 * Subscribe to our [mailing list](http://eepurl.com/cH1485)
 
 
-
 ## Blockchain Basics
 
-* Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeek.com)
+* Learn about altcoins, blockchain, Ethereum, and more subscribe to [Blockgeek](https://blockgeeks.com)
 * Interested in coding? [learn more](https://dappsforbeginners.wordpress.com/)
 * Our app is not just an app. It is a DApp. Learn more about [DApps](http://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
 * Watch Ethereum transactions on [Etherscan](https://etherscan.io)
 * Swap fiat for altcoins on [Changelly](https://changelly.com)
-* Swap altcoins on [ShapeShift}(https://shapeshift.io) or [Bity](https://bity.com)
+* Swap altcoins on [ShapeShift](https://shapeshift.io) or [Bity](https://bity.com)
 
 
 ### Need More Help?
 
 * Join us on [Slack](https://swarmcity.slack.com/messages/support/)
 * Email support@swarm.city
+
+----
+
+## We love contribution
+
+No matter where you live, what you do and what your skills are. We have a place for everybody. Join our slack channel, introduce yourself and get involved!
 
