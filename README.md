@@ -11,7 +11,7 @@ We make the sharing-economy become true!
 
 ## Past
 
-* The project emerged from a grassroots effort to create an alternative for rideshare drivers who were stuck in the middele of regulators and greedy corporate middlemen. We had tokensale to fund our project
+* The project emerged from a grassroots effort to create an alternative for rideshare drivers who were stuck in the middle of regulators and greedy corporate middlemen. We had tokensale to fund our project
 * [Arcade City whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
 * Swarm City was formed as a result of a [brandfork](https://press.swarm.city/forking-a-brand-cde5de87d46a), the Ethereum development team and the project cofounders separated from the original project, known as Arcade City
 * [Getting organized](https://medium.com/arcade-city-press/getting-organized-62b91a7a0541)
