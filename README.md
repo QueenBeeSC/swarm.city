@@ -88,7 +88,7 @@ If you want to have a deeper look -read the [roadmap](https://press.swarm.city/u
 
 ----
 
-## We love contribution
+## We love our contributors!
 
 No matter where you live, what you do and what your skills are. We have a place for everybody. Join our slack channel, introduce yourself and get involved!
 
