@@ -55,7 +55,7 @@ If you want to have a deeper look -read the [roadmap](https://press.swarm.city/u
 ## Knowledge Base Articles  
 
 * [The Terminal](https://github.com/QueenBeeSC/swarm.city-Terminal)
-* [FAQ](https://github.com/SwarmCitySupport/FAQ)
+* [FAQ](https://swarmcitysupport.github.io/FAQ/)
 * [Beta testing](https://github.com/SwarmCitySupport/Beta-testing)
 
 
